@@ -1,12 +1,12 @@
 <template>
     <div class="footer">
-        <a href="https://fit2cloud.com/" target="_blank">Copyright © 2014-2024 FIT2CLOUD 飞致云</a>
-        <SystemUpgrade :footer="true" />
+        <a href="https://fit2cloud.com/" target="_blank">Copyright © 青岛杰瑞工控技术有限公司</a>
+<!--        <SystemUpgrade :footer="true" />-->
     </div>
 </template>
 
 <script setup lang="ts">
-import SystemUpgrade from '@/components/system-upgrade/index.vue';
+// import SystemUpgrade from '@/components/system-upgrade/index.vue';
 </script>
 
 <style scoped lang="scss">
